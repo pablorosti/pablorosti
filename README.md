@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablorosti&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">A passionate frontend y backend developer from Argentina</h3>
+<h3>A passionate frontend y backend developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
